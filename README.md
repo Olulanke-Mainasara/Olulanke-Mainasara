@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olulanke-Mainasara
-- 👀 I’m interested in Web Development and App development
-- 🌱 I’m consistently working with the following Languages: HTML, CSS, JavaScript, Java and Python
-- 💞️ I’m looking to collaborate on any Web development projects and Ideas, I would also love to work together in develping and designing applications
+- 👀 I’m your go to guy for Front-end web development
+- 🌱 I’m consistently working with the following Languages: HTML, CSS, JavaScript, Bootstrap and Python
+- 💞️ I’m looking to collaborate on any Web development projects and Ideas, I would also love to work together in develping and designing web applications
 - 📫 How to reach me: e-mail: mainasara.olulanke@stu.cu.edu.ng, mainasara.o.olulanke@gmail.com
 
 <!---
